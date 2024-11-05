@@ -12,7 +12,7 @@
 ## 📫 How to Reach Me
 - **Email:** wisemanmlora@gmail.com
 - **LinkedIn:** [Wiseman Mlondi](https://www.linkedin.com/in/mlondi-chiya-69065926b/)
-- **GitHub:** [Wiseman325](https://github.com/Wiseman325)
+
 
 ---
 
@@ -90,47 +90,57 @@
 
 ## 🚀 About Me
 - 🌱 Currently expanding my knowledge in **Cloud Computing, Django, and DevOps**
-- 💼 Final-year student in **Bachelor of Information Communication Technology**
-- 🛠️ I enjoy building scalable, user-centered solutions across various domains, from education to healthcare
+- 💼 Final-year student in **Bachelor of Information Communication Technology** Expected to finish this year 2024.
+- 🛠️  I’m passionate about creating scalable, user-focused solutions that make a real impact.
 
 ---
 
 ## 📝 Projects
 
-### Project 1: Youth Upskilling Incubation System (Collaborative)
+### Project 1: BursaryBoost
+- **Description:** A platform that connects students with scholarships, bursaries, and internships to simplify financial aid search.
+- **Technologies Used:** A platform that connects students with scholarships, bursaries, and internships to simplify financial aid search.
+- **Technologies Used:** Python, Flask, HTML/CSS
+- **Link:** [GitHub Repository](https://github.com/Wiseman325/DurbanFirst.git)
+
+### Project 2: Youth Upskilling Incubation System (Collaborative)
 - **Description:** A platform empowering youth with educational opportunities by enabling students to apply for courses and connecting them with donors who support their learning. Includes bursaries, internships, and scholarships for career development.
 - **Technologies Used:** Python, Flask, HTML/CSS
 - **Link:** [GitHub Repository](https://github.com/Wiseman325)
 
 
-### Project 2: Hotel Wave Management System (Collaborative)
+### Project 3: Hotel Wave Management System (Collaborative)
 - **Description:** A platform for hotel guests to book and manage stays while allowing administrators to manage room availability, amenities, and bookings.
 - **Technologies Used:** ASP.NET Core MVC, SQL Server, Azure
 - **Link:** [Live Project](https://github.com/Wiseman325)
 
 
-### Project 3: SAPS Case Management System (Collaborative)
+### Project 4: SAPS Case Management System (Collaborative)
 - **Description:** Digital case management system for South African Police Services, enabling report tracking and officer assignments.
 - **Technologies Used:** ASP.NET Core MVC, SQL Server, Azure
 - **Link:** [GitHub Repository](https://github.com/Wiseman325/Case-Management-System.git)
 
 
-### Project 4: Durban First - Driving School Test Booking System
+### Project 5: Durban First - Driving School Test Booking System (Collaborative)
 - **Description:** A booking system allowing clients to schedule driving school tests and manage appointments efficiently.
 - **Technologies Used:** Java, Firebase
 - **Link:** [GitHub Repository](https://github.com/Wiseman325/DurbanFirst.git)
 
+#### And many more...
+---
 
-### Project 5: [Add Project Name Here]
-- **Description:** [Brief description of the project, its purpose, and features.]
-- **Technologies Used:** [List of technologies used in this project.]
-- **Link:** [Link to the project repository or demo]
-
+## 🏆 Certifications
+- Cisco Certified: Introduction to Cybersecurity
+- Cisco Certified: Information Assurance & Security
+- Cisco Certified: Introduction to Packet Tracer
+- Cisco Certified: Get Connected
+- Microsoft Certified: Azure Fundamentals
+- And many more...
 
 ---
 
 ## ⚡ Fun Fact
-I love experimenting with new technologies and methodologies to improve the development process and enhance user experience. 
+- I'm always exploring new technologies and creative problem-solving methods to streamline development and elevate user experience!
 
 ---
 
