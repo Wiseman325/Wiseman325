@@ -106,13 +106,13 @@
 ### Project 2: Youth Upskilling Incubation System (Collaborative)
 - **Description:** A platform empowering youth with educational opportunities by enabling students to apply for courses and connecting them with donors who support their learning. Includes bursaries, internships, and scholarships for career development.
 - **Technologies Used:** Python, Flask, HTML/CSS
-- **Link:** [GitHub Repository](https://github.com/Wiseman325)
+- **Link:** [GitHub Repository](https://github.com/NVNtshangase/Youth-Incubation-System)
 
 
 ### Project 3: Hotel Wave Management System (Collaborative)
 - **Description:** A platform for hotel guests to book and manage stays while allowing administrators to manage room availability, amenities, and bookings.
 - **Technologies Used:** ASP.NET Core MVC, SQL Server, Azure
-- **Link:** [Live Project](https://github.com/Wiseman325)
+- **Link:** [Live Project](https://hotelwavefinal20241025025037.azurewebsites.net/)
 
 
 ### Project 4: SAPS Case Management System (Collaborative)
