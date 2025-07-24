@@ -10,7 +10,6 @@
 ---
 
 ## 📫 How to Reach Me
-- **Email:** wisemanmlora@gmail.com
 - **LinkedIn:** [Wiseman Mlondi](https://www.linkedin.com/in/mlondi-chiya-69065926b/)
 
 
@@ -89,8 +88,8 @@
 ---
 
 ## 🚀 About Me
-- 🌱 Currently expanding my knowledge in **Cloud Computing, Django, and DevOps**
-- 💼 Final-year student in **Bachelor of Information Communication Technology** Expected to finish this year 2024.
+- 🌱 Currently expanding my knowledge in **Cloud Computing, Deep Learning, and DevOps**
+- 💼 ICT graduate in **Bachelor of Information Communication Technology** .
 - 🛠️  I’m passionate about creating scalable, user-focused solutions that make a real impact.
 
 ---
